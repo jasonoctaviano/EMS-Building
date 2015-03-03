@@ -30995,7 +30995,7 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="C40" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="C41" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="C42" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
-<part name="R4" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="10"/>
+<part name="R4" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10"/>
 <part name="C43" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="C44" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="SUPPLY87" library="supply2" deviceset="AGND" device=""/>
@@ -31033,7 +31033,7 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="SUPPLY101" library="supply2" deviceset="AGND" device=""/>
 <part name="SUPPLY78" library="supply2" deviceset="DGND" device=""/>
 <part name="SUPPLY95" library="supply2" deviceset="DGND" device=""/>
-<part name="R43" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="10"/>
+<part name="R43" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10"/>
 <part name="C55" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="C56" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
 <part name="SUPPLY100" library="supply2" deviceset="AGND" device=""/>

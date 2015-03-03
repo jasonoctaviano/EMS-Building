@@ -31002,12 +31002,12 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="SUPPLY88" library="supply2" deviceset="DGND" device=""/>
 <part name="SV1" library="con-lstb" deviceset="MA08-1" device=""/>
 <part name="SUPPLY89" library="supply2" deviceset="GND" device=""/>
-<part name="D1" library="diode" deviceset="DIODE-" device="D-7.5" value="1N4001">
+<part name="D1" library="diode" deviceset="DIODE-" device="DO-214AC" value="1N4001">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="D3" library="diode" deviceset="DIODE-" device="D-7.5" value="1N4001">
+<part name="D3" library="diode" deviceset="DIODE-" device="DO-214AC" value="1N4001">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
@@ -31042,12 +31042,12 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="SUPPLY104" library="supply2" deviceset="VCC" device=""/>
 <part name="X2" library="con-ptr500" deviceset="AK500/2-H" device=""/>
 <part name="SUPPLY71" library="supply2" deviceset="DGND" device=""/>
-<part name="D2" library="diode" deviceset="DIODE-" device="D-7.5" value="1N4001">
+<part name="D2" library="diode" deviceset="DIODE-" device="DO-214AC" value="1N4001">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="D4" library="diode" deviceset="DIODE-" device="D-7.5" value="1N4001">
+<part name="D4" library="diode" deviceset="DIODE-" device="DO-214AC" value="1N4001">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>

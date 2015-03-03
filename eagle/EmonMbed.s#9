@@ -31333,7 +31333,7 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.</description>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="IC6" library="v-reg" deviceset="78XXS" device="" value="7805"/>
+<part name="IC6" library="v-reg" deviceset="78XXS" device="" value="LMS8117A"/>
 <part name="SUPPLY72" library="supply2" deviceset="DGND" device=""/>
 <part name="SUPPLY91" library="supply2" deviceset="DGND" device=""/>
 <part name="SUPPLY98" library="supply2" deviceset="DGND" device=""/>

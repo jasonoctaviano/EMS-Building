@@ -30900,17 +30900,17 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X4" device="" value="SD CARD TFT LCD"/>
 <part name="IC4" library="ade7758" deviceset="ADE7758" device="RW"/>
 <part name="C23" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
-<part name="R26" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
+<part name="R26" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
 <part name="C24" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="C25" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="C26" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="C27" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="C28" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
-<part name="R27" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R28" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R29" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R30" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R31" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
+<part name="R27" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
+<part name="R28" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
+<part name="R29" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
+<part name="R30" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
+<part name="R31" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
 <part name="SUPPLY59" library="supply2" deviceset="AGND" device=""/>
 <part name="SUPPLY60" library="supply2" deviceset="DGND" device=""/>
 <part name="SUPPLY61" library="supply2" deviceset="AGND" device=""/>
@@ -30929,18 +30929,18 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="C31" library="rcl" deviceset="C-US" device="C0805K" value="22pF"/>
 <part name="C32" library="rcl" deviceset="C-US" device="C0805K" value="22pF"/>
 <part name="SUPPLY68" library="supply2" deviceset="DGND" device=""/>
-<part name="R32" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1M"/>
-<part name="R33" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1M"/>
-<part name="R34" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1M"/>
+<part name="R32" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1M"/>
+<part name="R33" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1M"/>
+<part name="R34" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1M"/>
 <part name="C33" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
-<part name="R35" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
+<part name="R35" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
 <part name="C34" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="C35" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="C36" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="33nF"/>
 <part name="SUPPLY69" library="supply2" deviceset="AGND" device=""/>
-<part name="R36" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R37" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
-<part name="R38" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W" value="1K"/>
+<part name="R36" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
+<part name="R37" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
+<part name="R38" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1K"/>
 <part name="J7" library="dp_devices" deviceset="CON_TERMINAL_BLOCK_02" device="-5MM"/>
 <part name="J4" library="dp_devices" deviceset="CON_TERMINAL_BLOCK_03" device="-5MM"/>
 <part name="JP4" library="jumper" deviceset="JP1E" device=""/>

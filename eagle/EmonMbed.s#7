@@ -31531,7 +31531,7 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="SUPPLY82" library="supply2" deviceset="DGND" device=""/>
 <part name="SUPPLY83" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY84" library="supply2" deviceset="GND" device=""/>
-<part name="L1" library="rcl" deviceset="L-US" device="0207/5V" value="150Mhz"/>
+<part name="L1" library="rcl" deviceset="L-US" device="WE-TPC" value="150Mhz"/>
 <part name="SUPPLY85" library="supply2" deviceset="DGND" device=""/>
 <part name="SUPPLY86" library="supply2" deviceset="AGND" device=""/>
 <part name="C39" library="rcl" deviceset="C-US" device="C0805" value="0.1uF"/>
